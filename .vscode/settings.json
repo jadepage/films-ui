@@ -1,0 +1,5 @@
+{
+  "reactSnippets.settings.prettierEnabled": true,
+  "reactSnippets.settings.importReactOnTop": false,
+  "reactSnippets.settings.typescript": false
+}
